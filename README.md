@@ -20,7 +20,7 @@
 * **Tên môn học**: Máy học - MACHINE LEARNING
 * **Mã môn học**: CS114
 * **Lớp học**: CS114.P11
-* **Năm học**: 20233-2021
+* **Năm học**: 2024
 ## QUÁ TRÌNH MÔN HỌC
 <a name ="quatrinh"></a>
 ### 1.LẬP TRÌNH PYTHON
