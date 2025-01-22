@@ -40,6 +40,8 @@
 
 ## THÀNH VIÊN NHÓM
 <a name="thanhvien"></a>
+Trần Quang Huy - 21520938
+Hứa Hồng Khanh - 22520634
 
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
